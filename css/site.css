@@ -15,6 +15,11 @@ h1 { color:purple;
 *{ color: blue;
     
 }
+.half_screen{
+    max-width: 100%;
+    max-height: 50%;
+
+}
 
 .black_paras{ color: black;
     
@@ -40,4 +45,11 @@ h1 { color:purple;
 .little_pic{
     width: 30%;
     height: 30%;
+}
+#nav_search{
+    align-self: right;
+}
+.brand-font{
+    font: x-large;
+    color: chartreuse;
 }

@@ -1,0 +1,43 @@
+
+h1 { color:purple;
+
+}
+
+/* p{ color: blueviolet
+    
+}*/
+
+
+#p2{ color: magenta
+    
+}
+
+*{ color: blue;
+    
+}
+
+.black_paras{ color: black;
+    
+}
+.red_paras{ color: red;
+    
+}
+.blue_paras{ color: blue;
+    
+}
+
+.navigator{
+    background-color: grey;
+    font-family: courier;
+    font-weight: bold;
+    
+}
+
+.weather{
+    background-color: lightblue;
+}
+
+.little_pic{
+    width: 30%;
+    height: 30%;
+}

@@ -49,7 +49,15 @@ h1 { color:purple;
 #nav_search{
     align-self: right;
 }
-.brand-font{
+.brand-h3font{
+    font: xx-large;
+    color: rgb(192, 194, 189);
+}
+.brand-pfont{
     font: x-large;
-    color: chartreuse;
+    color: rgb(192, 194, 189);
+}
+.TFooter{
+    background-color: rgb(70, 68, 68);
+    text-align: left;
 }
